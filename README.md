@@ -14,6 +14,7 @@ It is **Friday 6 November 2026**. You are the leadership group of **Wardline Hea
 - A prototype exists. It has been trialled in "shadow" mode at one NHS hospital.
 - The board meets on **15 December 2026** and wants your recommendation: **proceed, pilot, redesign, defer or reject**.
 - Time, money and information are all short. Start with `01_company_wardline/company_profile.md`.
+- Things will happen while you work. When you are ready, open the cards in `08_inject_cards/` one at a time, as its README explains.
 
 ## What is in the data room
 
@@ -26,6 +27,7 @@ It is **Friday 6 November 2026**. You are the leadership group of **Wardline Hea
 | `05_users_and_workflows/` | How bed management works today; interviews at all three hospitals; a staff survey; usability tests; the trial usage log |
 | `06_responsible_innovation/` | Draft risk register, hazard log and impact assessment; regulatory watchlist; patient and staff feedback; data-sharing correspondence; trial incident notes |
 | `07_prototype_v0_3/` | The prototype: draft model card, screen descriptions, a twelve-month back-test and the latest forecast |
+| `08_inject_cards/` | Ten messages that arrive between 9 and 24 November. Open them one at a time, when the folder's README says to |
 
 `DATA_DICTIONARY.md` explains every column.
 
@@ -150,6 +152,17 @@ sitrep = pd.read_csv("02_hospital_uk_kingsmere/site_daily_sitrep.csv", parse_dat
 | `07_prototype_v0_3/forecast_issued_2026-10-31.csv` | 14 | 8 | The latest forecast, for 1 - 7 November 2026 |
 | `07_prototype_v0_3/model_card_draft.md` | | | Draft description of the model and its performance |
 | `07_prototype_v0_3/prototype_screens.md` | | | What the prototype shows, and what it does not |
+| `08_inject_cards/README.md` | | | How and when to open the inject cards, with a log to fill in |
+| `08_inject_cards/inject_01.md` | | | Inject card 1. Open only when the README says to |
+| `08_inject_cards/inject_02.md` | | | Inject card 2. Open only when the README says to |
+| `08_inject_cards/inject_03.md` | | | Inject card 3. Open only when the README says to |
+| `08_inject_cards/inject_04.md` | | | Inject card 4. Open only when the README says to |
+| `08_inject_cards/inject_05.md` | | | Inject card 5. Open only when the README says to |
+| `08_inject_cards/inject_06.md` | | | Inject card 6. Open only when the README says to |
+| `08_inject_cards/inject_07.md` | | | Inject card 7. Open only when the README says to |
+| `08_inject_cards/inject_08.md` | | | Inject card 8. Open only when the README says to |
+| `08_inject_cards/inject_09.md` | | | Inject card 9. Open only when the README says to |
+| `08_inject_cards/inject_10.md` | | | Inject card 10. Open only when the README says to |
 <!-- INVENTORY:END -->
 
 ## Using and sharing
