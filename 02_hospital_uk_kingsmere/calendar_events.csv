@@ -1,0 +1,61 @@
+start_date,end_date,event_type,description,scope,known_in_advance
+2023-04-07,2023-04-07,Bank holiday,Good Friday,National,Yes
+2023-04-10,2023-04-10,Bank holiday,Easter Monday,National,Yes
+2023-04-11,2023-04-14,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-05-01,2023-05-01,Bank holiday,Early May bank holiday,National,Yes
+2023-05-08,2023-05-08,Bank holiday,Coronation bank holiday,National,Yes
+2023-05-29,2023-05-29,Bank holiday,Spring bank holiday,National,Yes
+2023-06-14,2023-06-16,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-07-13,2023-07-17,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-08-11,2023-08-14,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-08-28,2023-08-28,Bank holiday,Summer bank holiday,National,Yes
+2023-09-20,2023-09-22,Industrial action,"Resident (junior) doctors, BMA, England - joint action with consultants. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-10-02,2023-10-04,Industrial action,"Resident (junior) doctors, BMA, England - Christmas Day cover (joint). Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-12-20,2023-12-22,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2023-12-25,2023-12-25,Bank holiday,Christmas Day,National,Yes
+2023-12-26,2023-12-26,Bank holiday,Boxing Day,National,Yes
+2024-01-01,2024-01-01,Bank holiday,New Year's Day,National,Yes
+2024-01-03,2024-01-08,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2024-01-22,2024-01-30,Ward closure,W04: Norovirus outbreak - ward closed to admissions,Local,No
+2024-02-24,2024-02-28,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2024-03-04,2024-03-09,Ward closure,W07: Norovirus - one bay closed (6 beds),Local,No
+2024-03-29,2024-03-29,Bank holiday,Good Friday,National,Yes
+2024-04-01,2024-04-01,Bank holiday,Easter Monday,National,Yes
+2024-05-06,2024-05-06,Bank holiday,Early May bank holiday,National,Yes
+2024-05-27,2024-05-27,Bank holiday,Spring bank holiday,National,Yes
+2024-06-27,2024-07-01,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2024-08-05,2024-08-16,Ward closure,"W12: Estates - water leak, bay closed (6 beds)",Local,No
+2024-08-26,2024-08-26,Bank holiday,Summer bank holiday,National,Yes
+2024-10-12,2024-10-25,IT change,Go-live of the new electronic patient record (Corelia EPR) replacing the legacy PAS. Planned reduction in elective activity for two weeks. Ward and admission-method codes changed.,Local,Yes
+2024-12-25,2024-12-25,Bank holiday,Christmas Day,National,Yes
+2024-12-26,2024-12-26,Bank holiday,Boxing Day,National,Yes
+2025-01-01,2025-01-01,Bank holiday,New Year's Day,National,Yes
+2025-02-10,2025-02-20,Ward closure,W05: Norovirus outbreak - ward closed to admissions,Local,No
+2025-03-03,,Service change,"Same Day Emergency Care unit expanded (longer hours, more conditions accepted).",Local,Yes
+2025-04-18,2025-04-18,Bank holiday,Good Friday,National,Yes
+2025-04-21,2025-04-21,Bank holiday,Easter Monday,National,Yes
+2025-05-05,2025-05-05,Bank holiday,Early May bank holiday,National,Yes
+2025-05-26,2025-05-26,Bank holiday,Spring bank holiday,National,Yes
+2025-06-21,2025-06-21,Major incident,"Multi-vehicle collision on the motorway. Major incident declared 14:10, stood down 19:30.",Local,No
+2025-07-25,2025-07-29,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2025-08-25,2025-08-25,Bank holiday,Summer bank holiday,National,Yes
+2025-09-01,,Service change,Elective orthopaedic inpatient work moved to the off-site elective hub. Ward W15 re-designated as general & elderly medicine (24 beds).,Local,Yes
+2025-11-10,,System event,A large local care home provider entered administration; new placements paused across several homes.,Local system,No
+2025-11-14,2025-11-18,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2025-12-17,2025-12-21,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2025-12-25,2025-12-25,Bank holiday,Christmas Day,National,Yes
+2025-12-26,2025-12-26,Bank holiday,Boxing Day,National,Yes
+2026-01-01,2026-01-01,Bank holiday,New Year's Day,National,Yes
+2026-01-12,2026-01-21,Ward closure,W04: Norovirus outbreak - ward closed to admissions,Local,No
+2026-02-23,2026-02-28,Ward closure,W10: Norovirus - one bay closed (6 beds),Local,No
+2026-04-03,2026-04-03,Bank holiday,Good Friday,National,Yes
+2026-04-06,2026-04-06,Bank holiday,Easter Monday,National,Yes
+2026-04-07,2026-04-12,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2026-05-04,2026-05-04,Bank holiday,Early May bank holiday,National,Yes
+2026-05-12,2026-05-16,IT incident,Cyber incident at a third-party supplier. EPR unavailable; wards worked on paper (business continuity). Daily SitRep compiled manually.,Local,No
+2026-05-25,2026-05-25,Bank holiday,Spring bank holiday,National,Yes
+2026-06-15,2026-06-18,Industrial action,"Resident (junior) doctors, BMA, England - full walkout. Strike ran 07:00 on first day to 07:00 on the day after the last day shown.",National,Yes - about two weeks' notice
+2026-08-31,2026-08-31,Bank holiday,Summer bank holiday,National,Yes
+2026-11-25,2026-11-26,Industrial action (announced),"Consultants, BMA, England - strike announced for 25 and 26 November 2026.",National,Yes - announced 26 October 2026
+2026-12-25,2026-12-25,Bank holiday,Christmas Day,National,Yes
+2026-12-28,2026-12-28,Bank holiday,Boxing Day (substitute),National,Yes

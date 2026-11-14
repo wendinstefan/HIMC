@@ -1,0 +1,13 @@
+ward_code,ward_name,official_beds
+W1,Medical ward - male,44
+W2,Medical ward - female,44
+W3,Surgical ward - male,40
+W4,Surgical ward - female,32
+W5,Paediatric ward,60
+W6,Maternity (antenatal & postnatal),64
+NBU,Newborn unit,30
+W7,Gynaecology ward,24
+W8,Orthopaedic ward,36
+W9,Isolation / TB ward,16
+ICU,ICU / HDU,8
+AMN,Amenity (private) wing,22

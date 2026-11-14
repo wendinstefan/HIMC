@@ -1,0 +1,15 @@
+participant_id,site,role,years_in_role,device,session_date,sus_score,would_use_daily,closing_quote
+P01,Kingsmere (UK),Clinical site manager,14,Desktop,2026-10-20,74,Maybe,It's my bed meeting sheet with a crystal ball on top. Fine. But where do I tell it Ward 5 is shut?
+P02,Kingsmere (UK),Clinical site manager (nights),8,Desktop,2026-10-20,62,Maybe,"At 2am I need 'how many by 8', not next Thursday."
+P03,Kingsmere (UK),"Ward manager, care of the elderly",11,Shared ward computer,2026-10-20,48,No,This is the hospital's problem on a screen. Nothing here is about my ward or my patients.
+P04,Kingsmere (UK),"Ward manager, surgery",6,Shared ward computer,2026-10-21,55,Maybe,If it tells me Tuesday's elective list is at risk I'd look. I'd look once a day at most.
+P05,Kingsmere (UK),Discharge coordinator,9,Desktop,2026-10-21,51,No,It counts beds. I work in people and packages of care.
+P06,Kingsmere (UK),Deputy Chief Operating Officer,4,Laptop,2026-10-21,82,Yes,"This is the conversation I want to have with the exec on a Monday. Give me the range, I can handle a range."
+P07,Kingsmere (UK),ED nurse in charge,7,Desktop,2026-10-22,57,Maybe,Green on here while I've got eleven in the corridor? Then green means nothing.
+P08,Kingsmere (UK),Information analyst,5,Laptop,2026-10-22,79,Yes,The accuracy page is the best thing in it and you have hidden it three clicks down.
+P09,Kisima (Kenya),Medical Superintendent,6,Android phone (remote session),2026-10-27,58,Maybe,"I can read it. But our 'beds' are not our capacity. Show me patients, nurses and oxygen."
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",12,Android phone (remote session),2026-10-27,44,Maybe,The chart does not fit my screen and it used a lot of data bundle to load.
+P11,Kisima (Kenya),Health records & information officer,9,Laptop (remote session),2026-10-27,52,Yes,I can enter the midnight numbers each morning if it takes five minutes. Not if it is another register.
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)",5,"Laptop (remote session, interpreter)",2026-10-28,66,Yes,For the morning report this is good. I want it per room and per class.
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine",10,"Android phone (remote session, interpreter)",2026-10-28,47,Maybe,What is 'occupancy'? We say BOR. And is the range a mistake? Which number do I report?
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),7,"Laptop (remote session, interpreter)",2026-10-28,61,Maybe,"Technically we can send a file each night. An API needs the vendor, and the vendor will ask for money."

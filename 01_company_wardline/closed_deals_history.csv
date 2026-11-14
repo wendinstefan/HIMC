@@ -1,0 +1,35 @@
+opportunity_id,account,country,product,first_meeting_date,close_date,outcome,annual_contract_value_gbp,procurement_route,pilot_first,pilot_length_months,pilot_paid,loss_reason,sales_cycle_days
+OPP-1001,Aire & Wharfe Hospitals NHS Trust,UK,Wardline Live,2021-09-14,2023-01-30,Won,210000,G-Cloud direct award,Y,4,N,,503
+OPP-1002,Tees Estuary Hospitals NHS Foundation Trust,UK,Wardline Live,2022-01-11,2023-06-22,Won,189600,G-Cloud direct award,Y,6,Y,,527
+OPP-1003,Royal Marches Infirmary NHS Foundation Trust,UK,Wardline Live,2022-05-03,2023-10-12,Won,218400,Further competition (framework),N,0,,,527
+OPP-1004,North Fenland Hospitals NHS Trust,UK,Wardline Live,2022-09-20,2024-02-08,Won,202800,G-Cloud direct award,Y,3,Y,,506
+OPP-1005,Humber Coast Hospitals NHS Trust,UK,Wardline Live,2023-02-07,2024-05-30,Won,235200,Innovation-grant-funded pilot then direct award,Y,6,N,,478
+OPP-1006,Chiltern Vale Hospitals NHS Foundation Trust,UK,Wardline Live,2023-06-13,2025-01-21,Won,196800,Further competition (framework),N,0,,,588
+OPP-1007,Three Rivers Acute NHS Trust,UK,Wardline Live,2024-01-16,2025-07-10,Won,213600,G-Cloud direct award,Y,4,Y,,541
+OPP-1008,Cumbrian Fells Hospitals NHS Foundation Trust,UK,Wardline Live,2024-07-02,2025-12-18,Won,183600,G-Cloud direct award,N,0,,,534
+OPP-1009,Slaney Valley University Hospital,IE,Wardline Live,2025-03-04,2026-05-14,Won,50400,Paid pilot (12 months),Y,12,Y,,436
+OPP-1010,Weald & Downs Healthcare NHS Trust,UK,Wardline Live,2021-11-02,2022-12-15,Lost,0,Open tender,N,0,,Lost tender to EPR vendor module (bundled at no extra licence cost),408
+OPP-1011,Mersey Gateway Hospitals NHS Foundation Trust,UK,Wardline Live,2021-12-07,2023-03-31,No decision,0,G-Cloud direct award,Y,4,N,Unpaid pilot ended; no budget identified; sponsor (Deputy COO) left the trust,479
+OPP-1012,Severnside University Hospitals NHS Foundation Trust,UK,Wardline Live,2022-02-15,2023-04-28,Lost,0,Further competition (framework),N,0,,Chose competitor with existing regional contract,437
+OPP-1013,St Aldhelm's Hospital NHS Foundation Trust,UK,Wardline Live,2022-03-22,2023-02-10,No decision,0,Not reached,N,0,,Digital team capacity: EPR programme took priority,325
+OPP-1014,Pennine Vale Hospitals NHS Trust,UK,Wardline Live,2022-06-28,2023-09-05,Lost,0,G-Cloud direct award,Y,3,N,Unpaid pilot; ward staff did not adopt; competitor (Claros Flow) later selected,434
+OPP-1015,Solent Reach Hospitals NHS Trust,UK,Wardline Live,2022-08-09,2023-07-19,No decision,0,Not reached,N,0,,Information governance sign-off not obtained within sponsor's window,344
+OPP-1016,Dales & Coast Hospitals NHS Foundation Trust,UK,Wardline Live,2022-10-04,2023-11-30,No decision,0,G-Cloud direct award,N,0,,In-year capital frozen,422
+OPP-1017,East Anglian Fens Hospitals NHS Trust,UK,Wardline Live,2022-11-15,2024-01-25,Lost,0,Open tender,N,0,,Price,436
+OPP-1018,Thames Meadow Hospitals NHS Foundation Trust,UK,Wardline Live,2023-01-17,2024-03-14,No decision,0,Not reached,N,0,,Trust chose to wait for nationally funded platform tools,422
+OPP-1019,Wyre & Ribble Hospitals NHS Trust,UK,Wardline Live,2023-03-07,2024-02-22,Lost,0,Further competition (framework),N,0,,Chose in-house Power BI development,352
+OPP-1020,Peak & Dale Hospitals NHS Foundation Trust,UK,Wardline Live,2023-04-25,2024-08-01,No decision,0,G-Cloud direct award,Y,3,N,Unpaid pilot; positive feedback but no recurrent funding; merged into group procurement,464
+OPP-1021,Kennet Valley Hospitals NHS Trust,UK,Wardline Live,2023-07-11,2024-06-13,No decision,0,Not reached,N,0,,Chief Information Officer changed; programme re-prioritised,338
+OPP-1022,Northumbrian Borders Healthcare NHS Trust,UK,Wardline Live,2023-09-19,2024-11-07,Lost,0,Open tender,N,0,,Lost tender to EPR vendor module (bundled at no extra licence cost),415
+OPP-1023,Tamar Bridge Hospitals NHS Trust,UK,Wardline Live,2023-11-14,2025-02-27,No decision,0,Not reached,N,0,,Trust chose to wait for nationally funded platform tools,471
+OPP-1024,Sint Odulfus Ziekenhuis,NL,Wardline Live,2024-02-06,2025-03-20,No decision,0,Not reached,N,0,,No Dutch-language product; integration with local EPR not available,408
+OPP-1025,Lincoln Wolds Hospitals NHS Trust,UK,Wardline Live,2024-03-12,2025-04-17,Lost,0,G-Cloud direct award,N,0,,Chose competitor (Claros Flow),401
+OPP-1026,Klinikum Lindenau,DE,Wardline Live,2024-05-21,2025-06-30,No decision,0,Not reached,N,0,,Hospital required on-premise hosting and German-language support,405
+OPP-1027,Medway Marshes Hospitals NHS Foundation Trust,UK,Wardline Live,2024-06-18,2025-09-11,No decision,0,Not reached,N,0,,In-year revenue budget cut; all new digital spend paused,450
+OPP-1028,Exe & Otter Hospitals NHS Trust,UK,Wardline Live,2024-09-10,2025-10-23,Lost,0,Further competition (framework),N,0,,Price,408
+OPP-1029,Forest of Arden Hospitals NHS Trust,UK,Wardline Live,2024-11-05,2025-12-04,No decision,0,Not reached,N,0,,Information governance sign-off not obtained within sponsor's window,394
+OPP-1030,Region Vasterdal,SE,Wardline Live,2025-01-21,2026-02-12,No decision,0,Not reached,N,0,,Regional procurement requires open tender above threshold; no tender planned before 2027,387
+OPP-1031,Ouse Valley Hospitals NHS Foundation Trust,UK,Wardline Live,2025-02-18,2026-03-26,Lost,0,G-Cloud direct award,N,0,,Chose competitor (Claros Flow),401
+OPP-1032,Black Mountains Health Board,UK,Wardline Live,2025-04-08,2026-06-18,No decision,0,Not reached,N,0,,Health board digital strategy under review,436
+OPP-1033,Tyne Gorge Hospitals NHS Foundation Trust,UK,Wardline Live,2025-05-13,2026-07-09,No decision,0,Not reached,N,0,,Trust chose to wait for nationally funded platform tools,422
+OPP-1034,Hospital Universitario Rio Claro,ES,Wardline Live,2025-06-24,2026-08-27,No decision,0,Not reached,N,0,,No Spanish-language product; regional health service procures centrally,429

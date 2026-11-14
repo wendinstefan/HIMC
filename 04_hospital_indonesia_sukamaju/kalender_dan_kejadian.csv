@@ -1,0 +1,60 @@
+tanggal_mulai,tanggal_selesai,jenis,keterangan,description_en
+2024-12-25,2024-12-25,Libur nasional,Hari Raya Natal,Christmas Day
+2024-12-26,2024-12-26,Cuti bersama,Cuti bersama Natal,Collective leave (Christmas)
+2025-01-01,2025-01-01,Libur nasional,Tahun Baru Masehi,New Year's Day
+2025-01-20,2025-03-31,Kejadian penyakit,Peningkatan kasus DBD musim hujan,Seasonal rise in dengue cases
+2025-01-27,2025-01-27,Libur nasional,Isra Mikraj,Isra Mi'raj
+2025-01-28,2025-01-28,Cuti bersama,Cuti bersama Imlek,Collective leave (Lunar New Year)
+2025-01-29,2025-01-29,Libur nasional,Tahun Baru Imlek,Lunar New Year
+2025-03-01,2025-03-30,Bulan Ramadan,Bulan puasa Ramadan (tanggal perkiraan),Ramadan fasting month (approximate dates)
+2025-03-28,2025-03-28,Cuti bersama,Cuti bersama Nyepi,Collective leave (Nyepi)
+2025-03-29,2025-03-29,Libur nasional,Hari Suci Nyepi,Nyepi
+2025-03-31,2025-03-31,Libur nasional,Idul Fitri 1446 H,Eid al-Fitr
+2025-04-01,2025-04-01,Libur nasional,Idul Fitri 1446 H,Eid al-Fitr
+2025-04-02,2025-04-02,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2025-04-03,2025-04-03,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2025-04-04,2025-04-04,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2025-04-07,2025-04-07,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2025-04-18,2025-04-18,Libur nasional,Wafat Yesus Kristus,Good Friday
+2025-05-01,2025-05-01,Libur nasional,Hari Buruh,Labour Day
+2025-05-12,2025-05-12,Libur nasional,Hari Raya Waisak,Vesak
+2025-05-13,2025-05-13,Cuti bersama,Cuti bersama Waisak,Collective leave (Vesak)
+2025-05-29,2025-05-29,Libur nasional,Kenaikan Yesus Kristus,Ascension Day
+2025-05-30,2025-05-30,Cuti bersama,Cuti bersama Kenaikan Yesus Kristus,Collective leave (Ascension)
+2025-06-01,2025-06-01,Libur nasional,Hari Lahir Pancasila,Pancasila Day
+2025-06-06,2025-06-06,Libur nasional,Idul Adha 1446 H,Eid al-Adha
+2025-06-09,2025-06-09,Cuti bersama,Cuti bersama Idul Adha,Collective leave (Eid al-Adha)
+2025-06-27,2025-06-27,Libur nasional,Tahun Baru Islam 1447 H,Islamic New Year
+2025-07-01,,Sistem informasi,Pembaruan SIMRS: label cara bayar berubah dari 'BPJS' menjadi 'JKN',SIMRS update: payer labels change from 'BPJS ...' to 'JKN ...'
+2025-07-01,,Kebijakan,Penataan ruang rawat sesuai kriteria KRIS selesai (maksimal 4 TT per kamar); jumlah TT berkurang dari 338 menjadi 304,Rooms reconfigured to the standard inpatient class criteria (max 4 beds per room); beds fall from 338 to 304
+2025-08-17,2025-08-17,Libur nasional,Hari Kemerdekaan,Independence Day
+2025-08-18,2025-08-18,Cuti bersama,Cuti bersama Hari Kemerdekaan,Collective leave (Independence Day)
+2025-09-05,2025-09-05,Libur nasional,Maulid Nabi Muhammad,Prophet's Birthday
+2025-09-09,2025-09-11,Sistem informasi,Server SIMRS gangguan; sensus dan pemulangan diinput manual setelahnya,SIMRS server outage; census and discharges keyed in manually afterwards
+2025-12-25,2025-12-25,Libur nasional,Hari Raya Natal,Christmas Day
+2025-12-26,2025-12-26,Cuti bersama,Cuti bersama Natal,Collective leave (Christmas)
+2026-01-01,2026-01-01,Libur nasional,Tahun Baru Masehi,New Year's Day
+2026-01-15,,Kebijakan,Perubahan alur rujukan JKN di wilayah: lebih banyak kasus dirujuk langsung ke RS tipe B,Regional change to JKN referral flow: more cases referred directly to Type B hospitals
+2026-01-16,2026-01-16,Libur nasional,Isra Mikraj,Isra Mi'raj
+2026-02-09,2026-04-05,Kejadian penyakit,KLB DBD ditetapkan oleh Dinas Kesehatan Kabupaten; ruang anak memakai tempat tidur tambahan,Dengue outbreak (KLB) declared by the district health office; paediatric room uses extra beds
+2026-02-16,2026-02-16,Cuti bersama,Cuti bersama Imlek,Collective leave (Lunar New Year)
+2026-02-17,2026-02-17,Libur nasional,Tahun Baru Imlek,Lunar New Year
+2026-02-19,2026-03-20,Bulan Ramadan,Bulan puasa Ramadan (tanggal perkiraan),Ramadan fasting month (approximate dates)
+2026-03-18,2026-03-18,Cuti bersama,Cuti bersama Nyepi,Collective leave (Nyepi)
+2026-03-19,2026-03-19,Libur nasional,Hari Suci Nyepi,Nyepi
+2026-03-20,2026-03-20,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2026-03-21,2026-03-21,Libur nasional,Idul Fitri 1447 H,Eid al-Fitr
+2026-03-22,2026-03-22,Libur nasional,Idul Fitri 1447 H,Eid al-Fitr
+2026-03-23,2026-03-23,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2026-03-24,2026-03-24,Cuti bersama,Cuti bersama Idul Fitri,Collective leave (Eid)
+2026-04-03,2026-04-03,Libur nasional,Wafat Yesus Kristus,Good Friday
+2026-05-01,2026-05-01,Libur nasional,Hari Buruh,Labour Day
+2026-05-14,2026-05-14,Libur nasional,Kenaikan Yesus Kristus,Ascension Day
+2026-05-15,2026-05-15,Cuti bersama,Cuti bersama Kenaikan Yesus Kristus,Collective leave (Ascension)
+2026-05-27,2026-05-27,Libur nasional,Idul Adha 1447 H,Eid al-Adha
+2026-05-28,2026-05-28,Cuti bersama,Cuti bersama Idul Adha,Collective leave (Eid al-Adha)
+2026-05-31,2026-05-31,Libur nasional,Hari Raya Waisak,Vesak
+2026-06-01,2026-06-01,Libur nasional,Hari Lahir Pancasila,Pancasila Day
+2026-06-16,2026-06-16,Libur nasional,Tahun Baru Islam 1448 H,Islamic New Year
+2026-08-17,2026-08-17,Libur nasional,Hari Kemerdekaan,Independence Day
+2026-08-25,2026-08-25,Libur nasional,Maulid Nabi Muhammad,Prophet's Birthday

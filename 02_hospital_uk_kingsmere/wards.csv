@@ -1,0 +1,25 @@
+ward_code,ward_name,division,ward_type,specialty_group,beds_established,counts_as_adult_general_and_acute,legacy_pas_code,epr_location_code,notes
+AMU,Acute Medical Unit,Medicine & Emergency Care,Assessment unit,medical,40,1,AMU1,KRI-AMU,Assessment unit: most emergency medical patients are admitted here first.
+W01,Cardiology (incl. coronary care),Medicine & Emergency Care,Inpatient ward,medical,30,1,WD01,KRI-W01,
+W02,Respiratory,Medicine & Emergency Care,Inpatient ward,medical,30,1,WD02,KRI-W02,
+W03,Gastroenterology & general medicine,Medicine & Emergency Care,Inpatient ward,medical,28,1,WD03,KRI-W03,
+W04,Care of the elderly,Medicine & Emergency Care,Inpatient ward,medical,28,1,WD04,KRI-W04,
+W05,Care of the elderly,Medicine & Emergency Care,Inpatient ward,medical,28,1,WD05,KRI-W05,
+W06,Stroke unit (hyperacute & rehabilitation),Medicine & Emergency Care,Inpatient ward,medical,28,1,WD06,KRI-W06,
+W07,Care of the elderly & general medicine,Medicine & Emergency Care,Inpatient ward,medical,28,1,WD07,KRI-W07,
+W08,Frailty short-stay unit,Medicine & Emergency Care,Inpatient ward,medical,20,1,WD08,KRI-W08,
+W09,Haematology & oncology,Medicine & Emergency Care,Inpatient ward,medical,22,1,WD09,KRI-W09,
+W10,"Renal, diabetes & general medicine",Medicine & Emergency Care,Inpatient ward,medical,24,1,WD10,KRI-W10,
+SAU,Surgical Assessment Unit,Surgery & Critical Care,Assessment unit,surgical,12,1,SAU1,KRI-SAU,
+W11,General surgery,Surgery & Critical Care,Inpatient ward,surgical,30,1,WD11,KRI-W11,
+W12,Urology & vascular surgery,Surgery & Critical Care,Inpatient ward,surgical,26,1,WD12,KRI-W12,
+W14,Trauma & orthopaedics,Surgery & Critical Care,Inpatient ward,surgical,30,1,WD14,KRI-W14,
+W15,Elective orthopaedics,Surgery & Critical Care,Inpatient ward,surgical,24,1,WD15,KRI-W15,"Elective orthopaedics until 31 Aug 2025; general & elderly medicine from 1 Sep 2025 (elective orthopaedics moved to the off-site elective hub, which is not in this data)."
+W16,"Head & neck, gynaecology & breast surgery",Surgery & Critical Care,Inpatient ward,surgical,16,1,WD16,KRI-W16,
+W20,Escalation ward (flexible),Medicine & Emergency Care,Escalation,escalation,24,1,ESC1,KRI-W20,Flexible escalation capacity opened in blocks of 6 beds; staffed mainly by temporary and redeployed staff. beds_established is the maximum.
+ICU,Critical care (ICU/HDU),Surgery & Critical Care,Inpatient ward,critical,16,0,ITU,KRI-ICU,
+CHW,Children's ward,Women & Children,Inpatient ward,paediatric,26,0,CHWD,KRI-CHW,
+MAT,Maternity (antenatal & postnatal),Women & Children,Inpatient ward,maternity,34,0,MATY,KRI-MAT,Antenatal and postnatal beds only; delivery suite rooms are not counted as beds.
+NNU,Neonatal unit,Women & Children,Inpatient ward,neonatal,16,0,SCBU,KRI-NNU,
+SDEC,Same Day Emergency Care unit,Medicine & Emergency Care,"Ambulatory (chairs/trolleys, no overnight beds)",medical,0,0,AEC,KRI-SDEC,Known as Ambulatory Emergency Care (AEC) before 2024. Expanded on 3 March 2025.
+EDB,Emergency Department - admitted patient boarding,Medicine & Emergency Care,Virtual location,medical,0,0,EDOBS,KRI-ED-BOARD,Used when a patient with a decision to admit was treated and discharged from the Emergency Department without ever reaching a ward bed.

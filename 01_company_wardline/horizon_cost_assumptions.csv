@@ -1,0 +1,25 @@
+scope,item,unit,low,base,high,notes,source_of_estimate
+Product,"Engineering to make Horizon pilot-ready (data pipeline, model, interface, monitoring)",FTE-months,14,20,30,"GBP 9,200 per FTE-month fully loaded","Engineering lead estimate, Oct 2026; previous two estimates for Live overran by 40% and 65%"
+Product,Separate clinical safety case and hazard log for Horizon (DCB0129),GBP one-off,14000,20000,32000,Contract CSO at GBP 650/day,CSO estimate
+Product,Security: penetration test scope extension and digital technology assessment evidence,GBP per year,6000,9000,15000,,Supplier quote
+Per UK hospital,"Data integration (interface build, mapping ward and specialty codes, testing)",GBP one-off,28000,45000,80000,Depends on EPR vendor and trust interface team,Actuals from 8 Live deployments ranged GBP 24k-91k
+Per UK hospital,EPR vendor third-party API licence,GBP per year,0,18000,18000,Zero where a nightly file extract is accepted,Vendor quote
+Per UK hospital,"Information governance: data protection impact assessment, data-sharing agreement, opt-out handling",GBP one-off,6000,10000,18000,,Actuals from Live
+Per UK hospital,Deployment-side clinical safety support (DCB0160) and training,GBP one-off,4000,6000,12000,,CSO estimate
+Per UK hospital,Cloud hosting,GBP per year,9000,14000,24000,After start-up credits expire (Feb 2027),Finance
+Per UK hospital,Customer success and support,GBP per year,14000,19000,30000,About 0.25 FTE per hospital in year 1,Actuals from Live
+Per UK hospital,"Model monitoring, recalibration and retraining after local changes",GBP per year,5000,8000,20000,Higher where the hospital reconfigures wards or changes EPR,Data science estimate; no actuals yet
+Per UK hospital,"Cost of sale (people, travel, bid costs) per signed trust",GBP one-off,55000,85000,140000,,Actuals 2021-2026
+Evaluation,Independent evaluation of a pilot,GBP one-off,62000,62000,140000,Before-and-after vs stepped-wedge design,University proposal
+EU expansion,"Language and local-definition adaptation per country (interface, documentation, support hours)",GBP one-off,35000,60000,110000,,Estimate; no actuals
+EU expansion,On-premise or sovereign-cloud deployment option,FTE-months,6,10,18,Asked for in Germany,Engineering estimate
+Kenya,"Adaptation engineering: ingest monthly aggregates and photographed bed-state books, offline-first mobile interface, SMS/WhatsApp alerts",FTE-months,10,14,22,,Engineering estimate; no comparable project
+Kenya,"Local legal, data protection registration and regulatory advice",GBP one-off,15000,22000,30000,,Law firm indication
+Kenya,In-country hosting if required,GBP per year,6000,9000,12000,,Estimate
+Kenya,Travel and in-country support (per visit of 2 people for 2 weeks),GBP per visit,6000,7500,9500,4-6 visits in year 1,Finance
+Kenya,"Data collection support at the hospital (records officer time, phone data bundles, tablet)",GBP per hospital per year,3000,5000,9000,,Medical Superintendent's estimate
+Indonesia,"Adaptation engineering: SIMRS data model, room-class logic, Bahasa interface",FTE-months,8,11,16,,Engineering estimate
+Indonesia,Local presence: reseller agreement or local legal entity; e-procurement registration,GBP one-off,20000,45000,120000,Low = reseller only; high = own entity,Law firm indication
+Indonesia,In-country hosting (data residency),GBP per year,8000,11000,15000,,Estimate
+Indonesia,Reseller share of revenue,% of revenue,30,40,40,Vendor proposal is 40%,PT Nusa Medika Digital proposal
+Indonesia,Travel and in-country support (per visit of 2 people for 2 weeks),GBP per visit,7000,8500,11000,4-6 visits in year 1,Finance

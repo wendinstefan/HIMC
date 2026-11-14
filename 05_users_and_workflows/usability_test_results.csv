@@ -1,0 +1,85 @@
+participant_id,site,role,device,task_id,task,result,time_seconds,errors,misinterpretation_observed,self_rated_confidence_1to5
+P01,Kingsmere (UK),Clinical site manager,Desktop,T1,Find the forecast number of adult beds needed this Thursday,Completed,22,1,,4
+P01,Kingsmere (UK),Clinical site manager,Desktop,T2,Say in your own words how sure the tool is about Thursday's number,Completed,96,0,,5
+P01,Kingsmere (UK),Clinical site manager,Desktop,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,130,1,,3
+P01,Kingsmere (UK),Clinical site manager,Desktop,T4,Find which part of the hospital is driving the pressure,Completed,108,0,,2
+P01,Kingsmere (UK),Clinical site manager,Desktop,T5,Record that you disagree with Thursday's forecast and give a reason,Completed with help,111,1,,3
+P01,Kingsmere (UK),Clinical site manager,Desktop,T6,Find out how wrong the forecast was last week,Not completed,84,2,Expected a simple right/wrong tick for each day,2
+P02,Kingsmere (UK),Clinical site manager (nights),Desktop,T1,Find the forecast number of adult beds needed this Thursday,Completed,12,0,,4
+P02,Kingsmere (UK),Clinical site manager (nights),Desktop,T2,Say in your own words how sure the tool is about Thursday's number,Not completed,104,1,Read the 80% range as the minimum and maximum possible,1
+P02,Kingsmere (UK),Clinical site manager (nights),Desktop,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,44,1,,3
+P02,Kingsmere (UK),Clinical site manager (nights),Desktop,T4,Find which part of the hospital is driving the pressure,Completed,102,0,,5
+P02,Kingsmere (UK),Clinical site manager (nights),Desktop,T5,Record that you disagree with Thursday's forecast and give a reason,Not completed,151,1,Found it but would not record a reason: 'who reads this?',2
+P02,Kingsmere (UK),Clinical site manager (nights),Desktop,T6,Find out how wrong the forecast was last week,Not completed,172,2,Expected a simple right/wrong tick for each day,2
+P03,Kingsmere (UK),"Ward manager, care of the elderly",Shared ward computer,T1,Find the forecast number of adult beds needed this Thursday,Completed,35,1,,3
+P03,Kingsmere (UK),"Ward manager, care of the elderly",Shared ward computer,T2,Say in your own words how sure the tool is about Thursday's number,Not completed,86,1,Ignored the range and repeated the central number,4
+P03,Kingsmere (UK),"Ward manager, care of the elderly",Shared ward computer,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,107,1,,3
+P03,Kingsmere (UK),"Ward manager, care of the elderly",Shared ward computer,T4,Find which part of the hospital is driving the pressure,Not completed,86,0,Could not find the ward breakdown (below the fold),3
+P03,Kingsmere (UK),"Ward manager, care of the elderly",Shared ward computer,T5,Record that you disagree with Thursday's forecast and give a reason,Not completed,108,1,Could not find the override form,3
+P03,Kingsmere (UK),"Ward manager, care of the elderly",Shared ward computer,T6,Find out how wrong the forecast was last week,Completed with help,202,3,,3
+P04,Kingsmere (UK),"Ward manager, surgery",Shared ward computer,T1,Find the forecast number of adult beds needed this Thursday,Completed,22,0,,5
+P04,Kingsmere (UK),"Ward manager, surgery",Shared ward computer,T2,Say in your own words how sure the tool is about Thursday's number,Not completed,88,2,Read the 80% range as the minimum and maximum possible,3
+P04,Kingsmere (UK),"Ward manager, surgery",Shared ward computer,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,90,0,,4
+P04,Kingsmere (UK),"Ward manager, surgery",Shared ward computer,T4,Find which part of the hospital is driving the pressure,Not completed,123,3,Could not find the ward breakdown (below the fold),3
+P04,Kingsmere (UK),"Ward manager, surgery",Shared ward computer,T5,Record that you disagree with Thursday's forecast and give a reason,Completed with help,187,2,Found it but would not record a reason: 'who reads this?',4
+P04,Kingsmere (UK),"Ward manager, surgery",Shared ward computer,T6,Find out how wrong the forecast was last week,Completed,166,0,,4
+P05,Kingsmere (UK),Discharge coordinator,Desktop,T1,Find the forecast number of adult beds needed this Thursday,Completed,19,0,,4
+P05,Kingsmere (UK),Discharge coordinator,Desktop,T2,Say in your own words how sure the tool is about Thursday's number,Not completed,81,1,Read the 80% range as the minimum and maximum possible,4
+P05,Kingsmere (UK),Discharge coordinator,Desktop,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Not completed,96,6,Said the decision is not theirs to make,3
+P05,Kingsmere (UK),Discharge coordinator,Desktop,T4,Find which part of the hospital is driving the pressure,Completed with help,134,4,,3
+P05,Kingsmere (UK),Discharge coordinator,Desktop,T5,Record that you disagree with Thursday's forecast and give a reason,Completed with help,154,1,,2
+P05,Kingsmere (UK),Discharge coordinator,Desktop,T6,Find out how wrong the forecast was last week,Completed with help,199,1,Did not find the accuracy page,2
+P06,Kingsmere (UK),Deputy Chief Operating Officer,Laptop,T1,Find the forecast number of adult beds needed this Thursday,Completed,42,1,,3
+P06,Kingsmere (UK),Deputy Chief Operating Officer,Laptop,T2,Say in your own words how sure the tool is about Thursday's number,Completed with help,95,0,Thought the shaded band was last year's actuals,2
+P06,Kingsmere (UK),Deputy Chief Operating Officer,Laptop,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,63,1,,5
+P06,Kingsmere (UK),Deputy Chief Operating Officer,Laptop,T4,Find which part of the hospital is driving the pressure,Completed,88,0,,3
+P06,Kingsmere (UK),Deputy Chief Operating Officer,Laptop,T5,Record that you disagree with Thursday's forecast and give a reason,Completed with help,213,1,,2
+P06,Kingsmere (UK),Deputy Chief Operating Officer,Laptop,T6,Find out how wrong the forecast was last week,Completed,142,0,,4
+P07,Kingsmere (UK),ED nurse in charge,Desktop,T1,Find the forecast number of adult beds needed this Thursday,Completed,12,1,,3
+P07,Kingsmere (UK),ED nurse in charge,Desktop,T2,Say in your own words how sure the tool is about Thursday's number,Completed,48,0,,3
+P07,Kingsmere (UK),ED nurse in charge,Desktop,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Not completed,154,0,Decided from the colour alone,1
+P07,Kingsmere (UK),ED nurse in charge,Desktop,T4,Find which part of the hospital is driving the pressure,Completed with help,70,1,,3
+P07,Kingsmere (UK),ED nurse in charge,Desktop,T5,Record that you disagree with Thursday's forecast and give a reason,Not completed,196,0,Found it but would not record a reason: 'who reads this?',2
+P07,Kingsmere (UK),ED nurse in charge,Desktop,T6,Find out how wrong the forecast was last week,Not completed,189,4,Expected a simple right/wrong tick for each day,2
+P08,Kingsmere (UK),Information analyst,Laptop,T1,Find the forecast number of adult beds needed this Thursday,Completed,38,0,,4
+P08,Kingsmere (UK),Information analyst,Laptop,T2,Say in your own words how sure the tool is about Thursday's number,Completed,49,0,,5
+P08,Kingsmere (UK),Information analyst,Laptop,T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,74,0,,3
+P08,Kingsmere (UK),Information analyst,Laptop,T4,Find which part of the hospital is driving the pressure,Completed with help,140,1,,2
+P08,Kingsmere (UK),Information analyst,Laptop,T5,Record that you disagree with Thursday's forecast and give a reason,Completed,109,0,,3
+P08,Kingsmere (UK),Information analyst,Laptop,T6,Find out how wrong the forecast was last week,Completed with help,209,2,,2
+P09,Kisima (Kenya),Medical Superintendent,Android phone (remote session),T1,Find the forecast number of adult beds needed this Thursday,Completed,28,1,,3
+P09,Kisima (Kenya),Medical Superintendent,Android phone (remote session),T2,Say in your own words how sure the tool is about Thursday's number,Not completed,102,0,Read the 80% range as the minimum and maximum possible,2
+P09,Kisima (Kenya),Medical Superintendent,Android phone (remote session),T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed with help,271,3,Wanted yesterday's actual before deciding,3
+P09,Kisima (Kenya),Medical Superintendent,Android phone (remote session),T4,Find which part of the hospital is driving the pressure,Not completed,111,1,"Expected wards, found only 'medicine / surgery'",3
+P09,Kisima (Kenya),Medical Superintendent,Android phone (remote session),T5,Record that you disagree with Thursday's forecast and give a reason,Not completed,232,3,Thought override would change the number for everyone,4
+P09,Kisima (Kenya),Medical Superintendent,Android phone (remote session),T6,Find out how wrong the forecast was last week,Not completed,246,2,Did not find the accuracy page,2
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",Android phone (remote session),T1,Find the forecast number of adult beds needed this Thursday,Completed,46,0,,5
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",Android phone (remote session),T2,Say in your own words how sure the tool is about Thursday's number,Not completed,130,3,Read the 80% range as the minimum and maximum possible,3
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",Android phone (remote session),T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed with help,220,4,Decided from the red/amber/green colour alone; did not look at the range,1
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",Android phone (remote session),T4,Find which part of the hospital is driving the pressure,Not completed,133,3,Confused 'beds needed' with 'beds occupied',3
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",Android phone (remote session),T5,Record that you disagree with Thursday's forecast and give a reason,Completed,162,0,,4
+P10,Kisima (Kenya),"Nursing officer in charge, paediatrics",Android phone (remote session),T6,Find out how wrong the forecast was last week,Not completed,258,2,Found accuracy page but read mean error as 'always 8 beds out',3
+P11,Kisima (Kenya),Health records & information officer,Laptop (remote session),T1,Find the forecast number of adult beds needed this Thursday,Completed,27,0,,4
+P11,Kisima (Kenya),Health records & information officer,Laptop (remote session),T2,Say in your own words how sure the tool is about Thursday's number,Not completed,65,0,Read the 80% range as the minimum and maximum possible,2
+P11,Kisima (Kenya),Health records & information officer,Laptop (remote session),T3,"Decide whether you would open the escalation ward for the weekend, and say why",Not completed,162,0,Decided from the red/amber/green colour alone; did not look at the range,3
+P11,Kisima (Kenya),Health records & information officer,Laptop (remote session),T4,Find which part of the hospital is driving the pressure,Completed,71,0,,5
+P11,Kisima (Kenya),Health records & information officer,Laptop (remote session),T5,Record that you disagree with Thursday's forecast and give a reason,Not completed,233,2,Could not find the override form,3
+P11,Kisima (Kenya),Health records & information officer,Laptop (remote session),T6,Find out how wrong the forecast was last week,Not completed,216,2,Did not find the accuracy page,1
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)","Laptop (remote session, interpreter)",T1,Find the forecast number of adult beds needed this Thursday,Completed,25,1,,4
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)","Laptop (remote session, interpreter)",T2,Say in your own words how sure the tool is about Thursday's number,Not completed,125,4,Ignored the range and repeated the central number,2
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)","Laptop (remote session, interpreter)",T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed,133,1,,4
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)","Laptop (remote session, interpreter)",T4,Find which part of the hospital is driving the pressure,Completed with help,120,1,Could not find the ward breakdown (below the fold),2
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)","Laptop (remote session, interpreter)",T5,Record that you disagree with Thursday's forecast and give a reason,Completed,115,0,,5
+P12,Sukamaju (Indonesia),"Wakil Direktur Pelayanan (deputy director, services)","Laptop (remote session, interpreter)",T6,Find out how wrong the forecast was last week,Not completed,208,3,Expected a simple right/wrong tick for each day,3
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine","Android phone (remote session, interpreter)",T1,Find the forecast number of adult beds needed this Thursday,Completed,42,0,,5
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine","Android phone (remote session, interpreter)",T2,Say in your own words how sure the tool is about Thursday's number,Not completed,184,1,Read the 80% range as the minimum and maximum possible,2
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine","Android phone (remote session, interpreter)",T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed with help,159,0,,3
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine","Android phone (remote session, interpreter)",T4,Find which part of the hospital is driving the pressure,Completed with help,173,2,,4
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine","Android phone (remote session, interpreter)",T5,Record that you disagree with Thursday's forecast and give a reason,Not completed,216,1,Could not find the override form,2
+P13,Sukamaju (Indonesia),"Kepala ruangan (head nurse), internal medicine","Android phone (remote session, interpreter)",T6,Find out how wrong the forecast was last week,Not completed,247,2,Did not find the accuracy page,3
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),"Laptop (remote session, interpreter)",T1,Find the forecast number of adult beds needed this Thursday,Completed,49,0,,4
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),"Laptop (remote session, interpreter)",T2,Say in your own words how sure the tool is about Thursday's number,Completed with help,136,3,Read the 80% range as the minimum and maximum possible,2
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),"Laptop (remote session, interpreter)",T3,"Decide whether you would open the escalation ward for the weekend, and say why",Completed with help,204,1,Wanted yesterday's actual before deciding,3
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),"Laptop (remote session, interpreter)",T4,Find which part of the hospital is driving the pressure,Completed,67,0,,5
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),"Laptop (remote session, interpreter)",T5,Record that you disagree with Thursday's forecast and give a reason,Completed,144,0,,3
+P14,Sukamaju (Indonesia),Petugas SIMRS (hospital IT),"Laptop (remote session, interpreter)",T6,Find out how wrong the forecast was last week,Not completed,170,1,Expected a simple right/wrong tick for each day,3
